@@ -374,7 +374,7 @@ table.display tbody tr:hover {
         </div>
 
         <div class="grafica-container">
-            <h3>Top 10 Productos Más Vendidos</h3>
+            <h3>Top 3 Productos Más Vendidos</h3>
             <img src="grafica_productos.png" alt="Top 10 Productos" class="grafica">
             <div class="analisis">
                 <p>Aquí se muestran los 10 productos más vendidos, lo que ayuda a identificar los productos estrella y gestionar mejor el inventario.</p>
